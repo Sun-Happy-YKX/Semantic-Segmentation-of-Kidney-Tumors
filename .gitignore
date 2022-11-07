@@ -1,0 +1,10 @@
+*__pycache__*
+.vscode*
+Business_Intelligence
+README.md
+*.tmp
+Main/runs
+Main/README.md
+Main/data
+Main/order.sh
+Main/readmes
